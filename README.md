@@ -3,7 +3,7 @@
 Following Repository Consists Of Library Management System's Graphical User Interface (GUI) / Presentation Layer Encoded In Java 
 
 Following are the Expected outputs for codes
-<h1>LOGIN.Java<h1>
+<h1>LOGIN.java<h1>
 <img src="https://github.com/yashchitroda/Library-Management-System-GUI/blob/main/Outputs/login.png"><br>
 <h1>ADMIN.Java<h1>
 <img src="https://github.com/yashchitroda/Library-Management-System-GUI/blob/main/Outputs/admin.png"><br>
