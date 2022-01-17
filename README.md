@@ -7,7 +7,7 @@ Following are the Expected outputs for codes
 <img src="https://github.com/yashchitroda/Library-Management-System-GUI/blob/main/Outputs/login.png"><br>
 <h1>ADMIN.java<h1>
 <img src="https://github.com/yashchitroda/Library-Management-System-GUI/blob/main/Outputs/admin.png"><br>
-<h1>BOOKS.Java<h1>
+<h1>BOOKS.java<h1>
 <img src="https://github.com/yashchitroda/Library-Management-System-GUI/blob/main/Outputs/books.png"><br>
 <h1>BORROWERS.Java<h1>
 <img src="https://github.com/yashchitroda/Library-Management-System-GUI/blob/main/Outputs/borrowers.png"><br>
