@@ -11,7 +11,7 @@ Following are the Expected outputs for codes
 <img src="https://github.com/yashchitroda/Library-Management-System-GUI/blob/main/Outputs/books.png"><br>
 <h1>BORROWERS.java<h1>
 <img src="https://github.com/yashchitroda/Library-Management-System-GUI/blob/main/Outputs/borrowers.png"><br>
-<h1>STAFFS.Java<h1>
+<h1>STAFFS.java<h1>
 <img src="https://github.com/yashchitroda/Library-Management-System-GUI/blob/main/Outputs/staffs.png"><br>
 <h1>STUDENTS.Java<h1>
 <img src="https://github.com/yashchitroda/Library-Management-System-GUI/blob/main/Outputs/student.png"><br>
