@@ -15,5 +15,5 @@ Following are the Expected outputs for codes
 <img src="https://github.com/yashchitroda/Library-Management-System-GUI/blob/main/Outputs/staffs.png"><br>
 <h1>students.java<h1>
 <img src="https://github.com/yashchitroda/Library-Management-System-GUI/blob/main/Outputs/student.png"><br>
-  <h1>TEACHERS.java<h1>
+  <h1>teachers.java<h1>
 <img src="https://github.com/yashchitroda/Library-Management-System-GUI/blob/main/Outputs/teacher.png"><br>
