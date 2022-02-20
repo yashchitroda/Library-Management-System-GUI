@@ -1,6 +1,6 @@
 # Library-Management-GUI
 
-Following Repository Consists Of Library Management System's Graphical User Interface (GUI) / Presentation Layer Encoded In Java 
+The Following Repository Consists Of Library Management System's Graphical User Interface (GUI) / Presentation Layer Encoded In Java 
 
 Following are the Expected outputs for codes
 <h1>login.java<h1>
