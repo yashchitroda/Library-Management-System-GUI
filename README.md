@@ -1,4 +1,4 @@
-# Library-Management-GUI
+# Library Management GUI
 
 The Following Repository Consists Of Library Management System's Graphical User Interface (GUI) / Presentation Layer Encoded In Java 
 
